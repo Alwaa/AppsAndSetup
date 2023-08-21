@@ -10,6 +10,7 @@ chrome:
 
 rust: 
  - https://doc.rust-lang.org/cargo/getting-started/installation.html
+
 python:
  - `python`
  - install through MS Store i guess (ノಠ益ಠ)ノ彡┻━┻
