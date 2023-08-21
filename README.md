@@ -8,6 +8,9 @@
 chrome:
  - https://www.google.com/chrome/
 
+steam:
+ - https://store.steampowered.com/about/
+
 rust: 
  - https://doc.rust-lang.org/cargo/getting-started/installation.html
 
