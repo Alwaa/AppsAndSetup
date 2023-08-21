@@ -1,7 +1,7 @@
 # MS Store
 
-firefox
-discord
+ - firefox
+ - discord
 
 # Through the web
 
