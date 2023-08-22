@@ -2,6 +2,7 @@
 
  - firefox
  - discord
+ - spotify (preinstalled)
 
 # Through the web
 
