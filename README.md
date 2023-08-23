@@ -1,19 +1,15 @@
-# MS Store
+# Aps
 
- - firefox
- - discord
- - spotify (preinstalled)
+| | Windows | Fedora |
+| ---| --- | --- |
+| Firefox | MS Store | PREINSTALLED |
+| Chrome | [url](https://www.google.com/chrome/) | [guide](https://docs.fedoraproject.org/en-US/quick-docs/installing-chromium-or-google-chrome-browsers/) |
+| Obsidian | [url](https://obsidian.md/download) | [url](https://obsidian.md/download) |
 
-# Through the web
 
-chrome:
- - https://www.google.com/chrome/
+| Spotify |
+| Discord |
 
-steam:
- - https://store.steampowered.com/about/
-
-obsidian
- - https://obsidian.md/download
 
 rust: 
  - https://doc.rust-lang.org/cargo/getting-started/installation.html
