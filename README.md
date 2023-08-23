@@ -12,6 +12,9 @@ chrome:
 steam:
  - https://store.steampowered.com/about/
 
+obsidian
+ - https://obsidian.md/download
+
 rust: 
  - https://doc.rust-lang.org/cargo/getting-started/installation.html
 
