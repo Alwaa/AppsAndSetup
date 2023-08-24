@@ -24,7 +24,10 @@ choco:
 
 git:
  - `choco install git` in Admin CMD
-
+```
+git config --global user.name "Alwaa"
+git config --global user.email "74717334+Alwaa@users.noreply.github.com"
+```
 # Setup NeoVim
 https://github.com/Alwaa/scrtips
 
