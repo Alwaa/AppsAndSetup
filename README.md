@@ -5,8 +5,8 @@
 | Firefox | MS Store | PREINSTALLED |
 | Chrome | [url](https://www.google.com/chrome/) | CMD / [guide](https://docs.fedoraproject.org/en-US/quick-docs/installing-chromium-or-google-chrome-browsers/) |
 | Obsidian | [url](https://obsidian.md/download) | CMD / [url](https://obsidian.md/download) |
-| Spotify | PREINSTALLED | **TODO** |
-| Discord | MS Store | **TODO** |
+| Spotify | PREINSTALLED | CMD (flatpak) |
+| Discord | MS Store | CMD (flatpak) |
 
 # Tools
 | | Windows | Fedora |

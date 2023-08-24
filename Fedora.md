@@ -9,8 +9,15 @@ sudo dnf install grub-customizer
 [Link to commands for displaying fedora (35, but worked with 38)](https://youtu.be/VaIgbTOvAd0?si=tuTmIvhpZAOa1L6t&t=1083)
 - /etc/default/grub
 - GRUB_ENABLE_BLSCFG -> false
-- `sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg `
+- ``sudo grub2-mkconfig -o /boot/grub2/grub.cfg`
+	> (maybe) Instead of: `sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg `
+	> It seems to boot wight into fedora with the "efi/EFI" one
+- (Still not working :((( ) Add background image to root folder
 # App installs
+FIRST?
+```
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
 ### Chrome (as of 38)
 ```
 sudo dnf install fedora-workstation-repositories
@@ -25,9 +32,23 @@ flatpak install flathub md.obsidian.Obsidian
 
 > Setup Minimal Theme
 > Fetch git repositories
+> setup vaults (one for each repo) in the folder `~Documents/obsidian/`
+### Discord
+```
+flatpak install flathub com.discordapp.Discord
+```
+
+### Steam
+```
+flatpak install flathub com.valvesoftware.Steam
+```
+> Turn off run in background in app settings
+> Maybe steam-devices needed for controller support
 
 ### Sejda
-**TODO**
+- Only as a .deb for the moment... Use web version
+
+
 # SETUP
 
 git:
