@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c235481d16860ec9",
+            "id": "98a1b34faa171b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rea",
+                "query": "fed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c235481d16860ec9",
+  "active": "80b54eb0d15f056e",
   "lastOpenFiles": [
     "Fedora.md",
     "README.md"

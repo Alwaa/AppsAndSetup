@@ -1,36 +1,32 @@
-# Aps
+# Apps
 
 | | Windows | Fedora |
 | ---| --- | --- |
 | Firefox | MS Store | PREINSTALLED |
-| Chrome | [url](https://www.google.com/chrome/) | [guide](https://docs.fedoraproject.org/en-US/quick-docs/installing-chromium-or-google-chrome-browsers/) |
-| Obsidian | [url](https://obsidian.md/download) | [url](https://obsidian.md/download) |
+| Chrome | [url](https://www.google.com/chrome/) | CMD / [guide](https://docs.fedoraproject.org/en-US/quick-docs/installing-chromium-or-google-chrome-browsers/) |
+| Obsidian | [url](https://obsidian.md/download) | CMD / [url](https://obsidian.md/download) |
+| Spotify | PREINSTALLED | **TODO** |
+| Discord | MS Store | **TODO** |
 
+# Tools
+| | Windows | Fedora |
+| --- | --- | --- |
+| Rust | [url](https://doc.rust-lang.org/cargo/getting-started/installation.html) | **TODO** |
+| Python | CMD (ノಠ益ಠ)ノ彡┻━┻  | **TODO** |
+| Choco | CMD [url](https://chocolatey.org/install) | N/A |
 
-| Spotify |
-| Discord |
-
-
-rust: 
- - https://doc.rust-lang.org/cargo/getting-started/installation.html
+# WIN COMMANDS
 
 python:
- - `python`
- - install through MS Store i guess (ノಠ益ಠ)ノ彡┻━┻
+- `python`
+- install through MS Store i guess (ノಠ益ಠ)ノ彡┻━┻
 
 choco:
- - https://chocolatey.org/install
- - run scary command through admin cmd
+- [https://chocolatey.org/install](https://chocolatey.org/install)
+- run scary command through admin cmd
 
 git:
- - `choco install git` in Admin CMD
-```
-git config --global user.name "Alwaa"
-git config --global user.email "74717334+Alwaa@users.noreply.github.com"
-sudo dnf install gh
-```
-> Login with github cli `gh auth login`
-
+- `choco install git` in Admin CMD
 
 # Setup NeoVim
 https://github.com/Alwaa/scrtips
@@ -41,5 +37,5 @@ https://github.com/Alwaa/scrtips
  - select all files in the unpacked folder
  
 
-# Setup programming/special charachterts layer
- **TODO**
+# Setup programming/special characters layer
+**TODO**

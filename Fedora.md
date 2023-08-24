@@ -21,4 +21,16 @@ flatpak install flathub md.obsidian.Obsidian
 
 ### Sejda
 **TODO**
+# SETUP
+
+git:
+```
+git config --global user.name "Alwaa"
+git config --global user.email "74717334+Alwaa@users.noreply.github.com"
+sudo dnf install gh
+```
+> Login with github cli `gh auth login`
+
+
+
 # NeoVim
