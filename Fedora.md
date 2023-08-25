@@ -67,3 +67,21 @@ sudo dnf install htop
 
 
 # NeoVim
+```
+sudo dnf install neovim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+```
+> No to custom config
+Then:
+```
+mv ~/.config/nvim/lua/custom ~/.config/nvim/lua/custom-backup
+git clone https://github.com/Alwaa/nvchad-custom.git ~/.config/nvim/lua/custom
+nvim
+```
+ And setup a [NerdFont](https://www.nerdfonts.com/font-downloads)
+ ```
+ mkdir -p ~/.local/share/fonts/HackMono
+ unzip ~/Downloads/Hack.zip -d ~/.local/share/fonts/HackMono/
+ fc-cache -v
+ ```
+ 
