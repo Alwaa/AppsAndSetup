@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flows.md",
+                "file": "Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flows.md",
+                "file": "Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flows.md"
+                "file": "Fedora.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "490ecc370ec4deee",
+  "active": "98a1b34faa171b1c",
   "lastOpenFiles": [
-    "Fedora.md",
     "Flows.md",
+    "Fedora.md",
     "README.md",
     "F23QU6eXAAU5PU8-sunscreen.jpg"
   ]
