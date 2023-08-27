@@ -1,3 +1,6 @@
+# Setup Script
+
+
 # Dual Booting with Windows
 - Set time to local time: `timedatectl set-local-rtc 1 --adjust-system-clock`
   OR
